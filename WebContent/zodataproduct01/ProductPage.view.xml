@@ -2,7 +2,7 @@
 		controllerName="zodataproduct01.ProductPage" xmlns:html="http://www.w3.org/1999/xhtml">
 	<Page title="Title">
 		<content>
-	          <Table items="{/ProductSet}" growingThreshold="20" growing="true">
+	          <Table items="{/ProductSet}" growingThreshold="10" growing="true">
 	            <columns>
 	               <Column>
 	                  <Text text="Product ID"/>
